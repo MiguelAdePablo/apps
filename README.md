@@ -11,6 +11,7 @@ The goal is to keep a clean and organized overview of all app-focused repositori
 |:----------|-------------|----------:|
 |[📡 PortScanner](https://github.com/MiguelAdePablo/PortScanner)| A network port scanning tool designed to identify open ports and services on target hosts. Useful for learning, testing, and basic security assessments.|[View Repository](https://github.com/MiguelAdePablo/PortScanner)
 |[🌍 Webserver](https://github.com/MiguelAdePablo/Webserver)| local HTTP server with a sleek, modern GUI, allowing instant browser access to the folder where the script is run. | [View Repository](https://github.com/MiguelAdePablo/Webserver) |
+|[💾 Bat Backup](https://github.com/MiguelAdePablo/batbackup)| Documents backup Script igned to create a compressed backup of a user's **Documents** folder using **7-Zip**. |[View Repository](https://github.com/MiguelAdePablo/batbackup) |
 |🚧 Coming More|More new application projects will be added here as development continues.| --- |
 
 # Notes
