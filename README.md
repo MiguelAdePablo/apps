@@ -22,5 +22,5 @@ The goal is to keep a clean and organized overview of all app-focused repositori
 
 # 🌐 Useful Links
 
-- [General Index](https://github.com/MiguelAdePablo/Index)
+- [General Index](https://github.com/MiguelAdePablo/)
 
